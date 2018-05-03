@@ -43,5 +43,5 @@ make -j4
 echo "sudo /home/pi/openauto/bin/autoapp" >> /home/pi/.config/lxsession/LXDE-pi/autostart
 
 # Starting OpenAuto
-whiptail --title "OpenAuto RPi" --msgbox "Strating OpenAuto" 8 78
+whiptail --title "OpenAuto RPi" --msgbox "Starting OpenAuto" 8 78
 /home/pi/openauto/bin/autoapp
